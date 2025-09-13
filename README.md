@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 
+## Bye there.
 
 <!--
 **wordofdavid/wordofdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
